@@ -1,0 +1,87 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Red",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#bb1f1f",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#0C101C",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#111111",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "",
+					"name": "Base / Two",
+					"slug": "base-2"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#f4f4f4",
+					"name": "Contrast / Two",
+					"slug": "contrast-2"
+				},
+				{
+					"color": "#A4A4A4",
+					"name": "Contrast / Three",
+					"slug": "contrast-3"
+				},
+				{
+					"color": "#0D5C63",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#17213C",
+					"name": "Accent / Two",
+					"slug": "accent-2"
+				},
+				{
+					"color": "#d8613c",
+					"name": "Accent / Three",
+					"slug": "accent-3"
+				},
+				{
+					"color": "#b1c5a4",
+					"name": "Accent / Four",
+					"slug": "accent-4"
+				},
+				{
+					"color": "#020229",
+					"name": "Accent / Five",
+					"slug": "accent-5"
+				},
+				{
+					"color": "#fcfcfc",
+					"name": "Link Color",
+					"slug": "link-color"
+				},
+				{
+					"color": "#fff",
+					"name": "Heading Text Color",
+					"slug": "heading-text-color"
+				},
+				{
+					"color": "#6e0a0a",
+					"name": "Button Hover Color",
+					"slug": "button-hover-color"
+				}
+
+			]
+		}	
+	}
+}

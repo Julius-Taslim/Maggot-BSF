@@ -1,0 +1,355 @@
+# Copyright (C) 2024 advizecraft
+# This file is distributed under the same license as the advizecraft package.
+msgid ""
+msgstr ""
+"Project-Id-Version: advizecraft\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-05 14:39+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../functions.php:35
+msgid "Advizecraft"
+msgstr ""
+
+#: ../patterns/404.php:14
+msgid "404: Page Not Disco-vered"
+msgstr ""
+
+#: ../patterns/404.php:18
+msgid "Looks like the dance floor is empty here! This page has done disappearing act. Head back to the main stage by clicking the navigation links, and let's keep the party going!"
+msgstr ""
+
+#: ../patterns/404.php:25
+msgid "Go to home page"
+msgstr ""
+
+#: ../patterns/about.php:21
+msgid "Elevating Legal Expection, Tailored Strategies For You"
+msgstr ""
+
+#: ../patterns/about.php:25
+msgid "Ligula tortor feugiat magnis eu libero consectetur. Cursus torquent primis quis volutpat si aliquet nunc condimentum duis posuere. Rhoncus malesuada phasellus diam nulla sapien. Justo montes nisl sagittis vulputate curae hac neque. Scelerisque class odio habitasse cras consequat. "
+msgstr ""
+
+#: ../patterns/about.php:31
+msgid "98%"
+msgstr ""
+
+#: ../patterns/about.php:35
+msgid "Successful cases"
+msgstr ""
+
+#: ../patterns/about.php:41
+msgid "1M+"
+msgstr ""
+
+#: ../patterns/about.php:45
+msgid "Tax Return Field"
+msgstr ""
+
+#: ../patterns/about.php:51
+msgid "$50M"
+msgstr ""
+
+#: ../patterns/about.php:55
+msgid "Trade Valued Filled"
+msgstr ""
+
+#: ../patterns/about.php:62
+msgid "Schedule Free Consultation"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../patterns/banner.php:12
+msgid "First Class Business Consultant"
+msgstr ""
+
+#: ../patterns/banner.php:17
+msgid "Erat primis tincidunt morbi vivamus inceptos ligula semper duis ac habitant lacus ridiculus sodales Donec ac vitae diam inceptos duis erat commodo"
+msgstr ""
+
+#: ../patterns/banner.php:23
+msgid "Get Quote Now"
+msgstr ""
+
+#: ../patterns/banner.php:27
+msgid "Learn More"
+msgstr ""
+
+#: ../patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: ../patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: ../patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: ../patterns/consulting-services.php:11
+msgid "Our Premier Consulting Solutions"
+msgstr ""
+
+#: ../patterns/consulting-services.php:15
+msgid "Ullamcorper gravida lacus pulvinar rhoncus leo dignissim magnis luctus ante pharetra pede habitant nam tempus"
+msgstr ""
+
+#: ../patterns/consulting-services.php:26
+msgid "Save Money and Time"
+msgstr ""
+
+#: ../patterns/consulting-services.php:30, ../patterns/consulting-services.php:44, ../patterns/consulting-services.php:58, ../patterns/consulting-services.php:74, ../patterns/consulting-services.php:88, ../patterns/consulting-services.php:102
+msgid "Ultricies vivamus feugiat turpis nisl montes netus blandit vestibulum fusce. Amet id nostra natoque aliquam potenti dui sociosqu. Non quam duis natoque nisl vulputate dictumst nostra penatibus."
+msgstr ""
+
+#: ../patterns/consulting-services.php:40, ../patterns/services.php:121
+msgid "24/7 Support"
+msgstr ""
+
+#: ../patterns/consulting-services.php:54, ../patterns/services.php:29
+msgid "Travel and Avaition"
+msgstr ""
+
+#: ../patterns/consulting-services.php:70, ../patterns/services.php:85
+msgid "Free Shipping"
+msgstr ""
+
+#: ../patterns/consulting-services.php:84, ../patterns/services.php:65
+msgid "Financial Services"
+msgstr ""
+
+#: ../patterns/consulting-services.php:98, ../patterns/services.php:103
+msgid "Return and Exchange"
+msgstr ""
+
+#: ../patterns/contact-us.php:19
+msgid "Contact US"
+msgstr ""
+
+#: ../patterns/contact-us.php:23
+msgid "Make an Appointment"
+msgstr ""
+
+#: ../patterns/contact-us.php:27
+msgid "Dis quisque hac ante vitae maecenas pede sed aliquam viverra. Vitae condimentum fames consequat pulvinar aenean eu convallis."
+msgstr ""
+
+#: ../patterns/contact-us.php:31
+msgid "+01-265-562135"
+msgstr ""
+
+#: ../patterns/contact-us.php:35
+msgid "youremail@example.com"
+msgstr ""
+
+#: ../patterns/contact-us.php:39
+msgid "123, Main Street, UK"
+msgstr ""
+
+#: ../patterns/contact-us.php:44
+msgid "Book Appointment"
+msgstr ""
+
+#: ../patterns/faq.php:10
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../patterns/faq.php:15, ../patterns/services.php:16, ../patterns/team.php:16, ../patterns/testimonial.php:16
+msgid "Erat primis tincidunt morbi vivamus inceptos ligula semper duis ac habitant lacus ridiculus sodales Sem felis suscipit gravida vitae diam inceptos duis erat commodo"
+msgstr ""
+
+#: ../patterns/faq.php:23
+msgid "Venenatis himenaeos facilisis lobortis cursus fermentum eget sapien"
+msgstr ""
+
+#: ../patterns/faq.php:24, ../patterns/faq.php:30, ../patterns/faq.php:36, ../patterns/faq.php:42, ../patterns/faq.php:48
+msgid "Ridiculus neque gravida nisl interdum vitae facilisis hac augue mi. Parturient etiam nam suspendisse hac natoque malesuada tempus himenaeos porttitor."
+msgstr ""
+
+#: ../patterns/faq.php:29
+msgid "Quisque tristique per inceptos magnis nisi taciti pretium"
+msgstr ""
+
+#: ../patterns/faq.php:35
+msgid "Laculis nibh felis tellus orci penatibus maecenas eleifend"
+msgstr ""
+
+#: ../patterns/faq.php:41
+msgid "Suscipit lacinia lectus primis congue pulvinar dis enim"
+msgstr ""
+
+#: ../patterns/faq.php:47
+msgid "Eleifend parturient facilisi primis turpis lacinia quisque ullamcorper"
+msgstr ""
+
+#: ../patterns/footer.php:14
+msgid "AdvizeCraft"
+msgstr ""
+
+#: ../patterns/footer.php:37
+msgid "Company Info"
+msgstr ""
+
+#: ../patterns/footer.php:41
+msgid "About Us"
+msgstr ""
+
+#: ../patterns/footer.php:45
+msgid "Career"
+msgstr ""
+
+#: ../patterns/footer.php:49
+msgid "We are hiring"
+msgstr ""
+
+#: ../patterns/footer.php:53
+msgid "Blog"
+msgstr ""
+
+#: ../patterns/footer.php:59
+msgid "Features"
+msgstr ""
+
+#: ../patterns/footer.php:63
+msgid "Business Marketing"
+msgstr ""
+
+#: ../patterns/footer.php:67
+msgid "User Analytic"
+msgstr ""
+
+#: ../patterns/footer.php:71
+msgid "Live Chat"
+msgstr ""
+
+#: ../patterns/footer.php:75
+msgid "Unlimited Support"
+msgstr ""
+
+#: ../patterns/footer.php:81
+msgid "Resources"
+msgstr ""
+
+#: ../patterns/footer.php:85
+msgid "IOS"
+msgstr ""
+
+#: ../patterns/footer.php:85
+msgid "Android"
+msgstr ""
+
+#: ../patterns/footer.php:89
+msgid "Watch a Demo"
+msgstr ""
+
+#: ../patterns/footer.php:93
+msgid "Customers"
+msgstr ""
+
+#: ../patterns/footer.php:97
+msgid "API"
+msgstr ""
+
+#: ../patterns/footer.php:103
+msgid "Get In Touch"
+msgstr ""
+
+#: ../patterns/footer.php:107
+msgid "Urna dapibus ante tristique"
+msgstr ""
+
+#: ../patterns/footer.php:111
+msgid "Add your contact form here"
+msgstr ""
+
+#: ../patterns/footer.php:119
+msgid "Developed By"
+msgstr ""
+
+#: ../patterns/footer.php:119
+msgid "Themegrove.com"
+msgstr ""
+
+#: ../patterns/services.php:11
+msgid "Industry"
+msgstr ""
+
+#: ../patterns/services.php:34, ../patterns/services.php:52, ../patterns/services.php:70, ../patterns/services.php:90, ../patterns/services.php:108, ../patterns/services.php:126
+msgid "Maximus ipsum rhoncus curabitur nisi semper nostra egestas ad ullamcorper luctus himenaeos pretium etiam Habitant primis cubilia sagittis"
+msgstr ""
+
+#: ../patterns/services.php:47
+msgid "Save money and time"
+msgstr ""
+
+#: ../patterns/sidebar.php:14
+msgid "Latest Posts"
+msgstr ""
+
+#: ../patterns/sidebar.php:22
+msgid "Categories"
+msgstr ""
+
+#: ../patterns/sidebar.php:30
+msgid "Tags"
+msgstr ""
+
+#: ../patterns/single-product.php:10
+msgid "Single Product"
+msgstr ""
+
+#: ../patterns/single-product.php:58
+msgid "Related Products"
+msgstr ""
+
+#: ../patterns/team.php:11
+msgid "Meet Our Team"
+msgstr ""
+
+#: ../patterns/team.php:30
+msgid "Ashley Fletcher"
+msgstr ""
+
+#: ../patterns/team.php:34, ../patterns/team.php:60, ../patterns/team.php:86, ../patterns/team.php:112
+msgid "CEO"
+msgstr ""
+
+#: ../patterns/team.php:56
+msgid "Regina Miles"
+msgstr ""
+
+#: ../patterns/team.php:82
+msgid "Sophie Miller"
+msgstr ""
+
+#: ../patterns/team.php:108
+msgid "Rodney Stratton"
+msgstr ""
+
+#: ../patterns/testimonial.php:11
+msgid "What Clients Say"
+msgstr ""
+
+#: ../patterns/testimonial.php:28, ../patterns/testimonial.php:56, ../patterns/testimonial.php:84
+msgid "Augue litora aenean facilisis quisque iaculis odio. Lacus quam si eleifend euismod tempor curabitur porta tortor quisque cubilia."
+msgstr ""
+
+#: ../patterns/testimonial.php:38, ../patterns/testimonial.php:66, ../patterns/testimonial.php:94
+msgid "Jorah Miles"
+msgstr ""
+
+#: ../patterns/testimonial.php:42, ../patterns/testimonial.php:70, ../patterns/testimonial.php:98
+msgid "Designer"
+msgstr ""
